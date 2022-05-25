@@ -14,6 +14,8 @@ Now, to generate the Mesh simply presh the "Generate" Button once.
 
 To add Mountains and higher areas after generating the Mesh, go to editmode and move the vertices (also here you have to keep in mind, to not go crazy with the deforming).
 
+Change the amount of flat / stud tiles to reduce the amount of stud / flat tiles.
+
 ! If you have bought Mecabricks Advanced Shader, you can just exchange the simple shader with the advanced version !
 
 ! If you would like a bigger variety of tiles/pieces, go to Mecabricks (link above), download the bricks you want and drop them into the "Part" Collection !
