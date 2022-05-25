@@ -2,7 +2,7 @@
 Hello ^^
 thanks for using this addon!
 
-! The Lego Models and Shaders are made and free on [Mecabricks.com](https://www.mecabricks.com) !
+! The Lego Models and Shaders aren't made by me and free on [Mecabricks.com](https://www.mecabricks.com) !
 
 this addon is build pretty simple, there are only two sliders and one button.
 The first slider called "hight" is the strenght of the displacement modifier (tipp: dont mess with it, you can add mountains by hand).
