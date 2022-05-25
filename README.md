@@ -4,6 +4,8 @@ thanks for using this addon!
 
 ! The Lego Models and Shaders aren't made by me and free on [Mecabricks.com](https://www.mecabricks.com) !
 
+If you download it from the github, you have to unpack the file until it is "WorldGen.zip" and then import it into Blender
+
 this addon is build pretty simple, there are only two sliders and one button.
 The first slider called "hight" is the strenght of the displacement modifier (tipp: dont mess with it, you can add mountains by hand).
 The second slider called "size" defines the size of the plate on the x and y axes.
